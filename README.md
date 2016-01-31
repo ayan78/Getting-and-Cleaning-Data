@@ -10,7 +10,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 
 # Data Analysis
-There are 5 tasks that are performed:
+
 1. Merge the training and the test sets to create one data set.
 2. Extract only the measurements on the mean and standard deviation for each measurement.
 3. Use descriptive activity names to name the activities in the data set
