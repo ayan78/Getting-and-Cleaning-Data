@@ -1,18 +1,17 @@
 # Input Data Set
-
-subject_test.txt has on the subjects.
-activity_labels.txt has information on the activity types.
-features.txt has the information on the features in the data sets.
+- subject_test.txt has on the subjects.
+- activity_labels.txt has information on the activity types.
+- features.txt has the information on the features in the data sets.
 
 ## Training Data
-X_train.txt has features information needed  for training.
-y_train.txt corresponding activity information for X_train.txt.
-subject_train.txt contains information on the subjects.
+- X_train.txt has features information needed  for training.
+- y_train.txt corresponding activity information for X_train.txt.
+- subject_train.txt contains information on the subjects.
 
 ## Test Data
-X_test.txt contains variable features that are intended for testing.
-y_test.txt contains the activities corresponding to X_test.txt.
-subject_test.txt contains information on the subjects.
+- X_test.txt contains variable features that are intended for testing.
+- y_test.txt contains the activities corresponding to X_test.txt.
+- subject_test.txt contains information on the subjects.
 
 #Transformations
 The following are the transformations:
